@@ -1,0 +1,23 @@
+{
+  "name": "@erhansonmez/colorlog",
+  "version": "1.0.0",
+  "description": "Modern console.log",
+  "main": "colorlog.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erhansonmez/colorlog.git"
+  },
+  "keywords": [
+    "colorlog",
+    "console.log"
+  ],
+  "author": "Erhan Sönmez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erhansonmez/colorlog/issues"
+  },
+  "homepage": "https://github.com/erhansonmez/colorlog#readme"
+}
