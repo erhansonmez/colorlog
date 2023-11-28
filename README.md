@@ -1,9 +1,10 @@
 ![colorlog](https://raw.githubusercontent.com/erhansonmez/colorlog/main/color-log.js.png)
 
 ```javascript
-// with npm install
+// npm install @erhansonmez/colorlog
 // const { consolelog, strColorizer } = require('@erhansonmez/colorlog');
 
+// for test
 const { consolelog, strColorizer } = require('./colorlog.js');
 
 // Modern logger
