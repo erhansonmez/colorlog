@@ -1,3 +1,5 @@
+![colorlog](https://raw.githubusercontent.com/erhansonmez/colorlog/main/color-log.js.png)
+
 ```javascript
 // with npm install
 // const { consolelog, strColorizer } = require('@erhansonmez/colorlog');
